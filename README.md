@@ -1,3 +1,7 @@
+### This fork is for creating Kodi, new style.
+Kodi new style will be nothing like the original kodi and yet it will be exactly the same.
+All I can say at this point is that it will be amazing, fast, reliable and nothing like you ever seen before. If like to join in, please contact me. 
+
 #### About
 
 Kodi is an award-winning free and open source (GPL) software media player and
